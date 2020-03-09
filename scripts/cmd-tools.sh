@@ -11,4 +11,6 @@ sudo apt-get update
 
 sudo apt-get -y install mssql-tools unixodbc-dev
 
+exit
+
 

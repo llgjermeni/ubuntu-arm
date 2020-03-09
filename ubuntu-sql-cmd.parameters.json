@@ -16,6 +16,15 @@
       },
       "adminPasswordOrKey": {
         "value": "Hollywood2020#"
-      }
+      },
+      "keyVaultName": {
+        "value": "ubuntu-vm-msi"
+    },
+    "secretsPermissions": {
+        "value": [
+            "list",
+            "get"
+        ]
+    }
     }
   }

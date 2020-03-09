@@ -9,6 +9,6 @@ curl https://packages.microsoft.com/config/ubuntu/16.04/prod.list | sudo tee /et
 
 sudo apt-get update 
 
-sudo apt-get --yes --force-yes install mssql-tools unixodbc-dev
+sudo apt-get -y install mssql-tools unixodbc-dev
 
 
